@@ -1,0 +1,2 @@
+# bash_alliases_for_git
+bash_alliases_for_git
