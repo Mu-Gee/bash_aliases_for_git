@@ -8,8 +8,8 @@ In Linux, setting aliases and making them permanent are a little bit easier than
 Now in linux there exists multiple types of terminals since as you might have heard there are so many distributions out there each with its own or borrowed base
 Don't be scared I'll take your through the most common, the bash terminal
 
-To create a permanent alias, we will need to edit the ~/.bashrc file. You can open this file with nano or your preferred text editor. <br>
-
+To create a permanent alias, we will need to edit the `~/.bashrc` file. You can open this file with nano or your preferred text editor.
+Here I will use vi as text editor example.
 `$ vi ~/.bashrc`
 
 ## Bash Aliases
