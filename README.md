@@ -9,7 +9,7 @@ Now in linux there exists multiple types of terminals since as you might have he
 Don't be scared I'll take your through the most common, the bash terminal
 
 To create a permanent alias, we will need to edit the ~/.bashrc file. You can open this file with nano or your preferred text editor.
-$ vi ~/.bashrc
+'$ vi ~/.bashrc'
 
 ## Bash Aliases
 At the bottom of this file, you can add your permanent alias.
