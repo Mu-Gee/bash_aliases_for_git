@@ -9,12 +9,15 @@ Now in linux there exists multiple types of terminals since as you might have he
 there are so many distributions out there each with its own or borrowed base.<br>
 Don't be scared I'll take your through the most common, the bash terminal<br>
 
-To create a permanent alias, we will need to edit the `~/.bashrc` file.<br>
+To create a permanent alias, we will need to edit the file `~/.bashrc` for bash and `~/.zshrc` for zsh<br>
 You can open this file with nano or your preferred text editor.<br>
 Here I will use vi as a text editor example.<br>
 
 ```
 $ vi ~/.bashrc
+```
+```
+$ vi ~/.zshrc
 ```
 
 ## Warning: DON'T TOUCH ANYTHING ELSE IN THIS FILE UNLESS YOU KNOW WHAT YOU ARE DOING.
@@ -43,4 +46,7 @@ After saving your changes and exiting the file, execute the following command to
 
 ```
 $ source ~/.bashrc
+```
+```
+$ source ~/.zshrc
 ```
