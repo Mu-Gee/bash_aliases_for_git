@@ -19,7 +19,7 @@ $ vi ~/.bashrc
 
 ## Warning: DON'T TOUCH ANYTHING ELSE IN THIS FILE UNLESS YOU KNOW WHAT YOU ARE DOING.
 At the bottom of this file, you can add your permanent git aliases.<br>
-These are just some examples and you coud create as many as you want.<br>
+These are just some examples, you coud create as many as you want.<br>
 
 ```
 #>>> git aliases >>>
@@ -35,7 +35,7 @@ alias checkout='git checkout'
 alias branch='git branch'
 alias diff='git diff'
 alias show='git show'
-alias status='git status'
+alias gstat='git status'
 #<<< git aliases <<<
 ```
 
