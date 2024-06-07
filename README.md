@@ -26,7 +26,7 @@ These are just some examples, you coud create as many as you want.<br>
 
 ```
 #>>> git aliases >>>
-alias init='git init'
+alias ginit='git init'
 alias clone='git clone'
 alias fetch='git fetch'
 alias merge='git merge'
