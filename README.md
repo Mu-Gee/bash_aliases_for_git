@@ -14,10 +14,10 @@ You can open this file with nano or your preferred text editor.<br>
 Here I will use vi as a text editor example.<br>
 
 ```
-$ vi ~/.bashrc
+vi ~/.bashrc
 ```
 ```
-$ vi ~/.zshrc
+vi ~/.zshrc
 ```
 
 ## Warning: DON'T TOUCH ANYTHING ELSE IN THIS FILE UNLESS YOU KNOW WHAT YOU ARE DOING.
@@ -45,8 +45,8 @@ alias gstat='git status'
 After saving your changes and exiting the file, execute the following command to make the changes take effect:
 
 ```
-$ source ~/.bashrc
+source ~/.bashrc
 ```
 ```
-$ source ~/.zshrc
+source ~/.zshrc
 ```
